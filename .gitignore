@@ -13,3 +13,8 @@ wp-signup.php
 wp-trackback.php
 xmlrpc.php
 license.txt
+
+#Folders to ignore
+wp-admin/
+wp-includes/
+
