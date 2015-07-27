@@ -1,0 +1,38 @@
+/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+article.post, article.page, article.attachment {
+	background: #fff !important;
+	color: #FFFFFF !important;
+}
+
+#sidebar .widget-container {
+	background: #000000;
+	color: #FFFFFF;
+}
+
+#navigation ul.cart a.cart-contents:before {
+	color: #0066bf;
+}
+
+#navigation ul.cart li, #navigation ul.cart a:hover, #navigation ul.cart li ul {
+	background: #0066bf !important;
+}
+
+.page p {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 68px !important;
+}
+
+#site-navigation {
+	font-size: 150% !important;
+}
+
+h2 {
+	font-size: 150% !important;
+}
